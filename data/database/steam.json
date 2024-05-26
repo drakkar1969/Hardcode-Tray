@@ -1,6 +1,7 @@
 {
     "name": "Steam",
     "app_path": [
+        "/usr/bin/steam",
         "{userhome}/.steam/",
         "/var/lib/flatpak/app/com.valvesoftware.Steam/"
     ],
