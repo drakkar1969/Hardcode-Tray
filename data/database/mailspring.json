@@ -1,10 +1,10 @@
 {
     "name": "Mailspring",
     "app_path": [
-        "/usr/share/mailspring/"
+        "/opt/mailspring/"
     ],
     "icons_path": [
-        "/usr/share/mailspring/resources/"
+        "/opt/mailspring/resources/"
     ],
     "script": "electron",
     "binary": "app.asar",
