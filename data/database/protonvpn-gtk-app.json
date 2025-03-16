@@ -1,5 +1,5 @@
 {
-    "name": "ProtonVPN GUI",
+    "name": "ProtonVPN GTK app",
     "app_path": [
         "/usr/lib/python3.13/site-packages/proton/vpn/",
         "/usr/lib/python3.12/site-packages/proton/vpn/",
