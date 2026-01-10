@@ -1,6 +1,7 @@
 {
     "name": "ProtonVPN GTK App",
     "app_path": [
+        "/usr/lib/python3.14/site-packages/proton/vpn/",
         "/usr/lib/python3.13/site-packages/proton/vpn/",
         "/usr/lib/python3.12/site-packages/proton/vpn/",
         "/usr/lib/python3.11/site-packages/proton/vpn/",
@@ -9,6 +10,7 @@
         "/usr/lib/python3.8/site-packages/proton/vpn/",
         "/usr/lib/python3.7/site-packages/proton/vpn/",
         "/usr/lib/python3.6/site-packages/proton/vpn/",
+        "{userhome}/.local/lib/python3.14/site-packages/proton/vpn/",
         "{userhome}/.local/lib/python3.13/site-packages/proton/vpn/",
         "{userhome}/.local/lib/python3.12/site-packages/proton/vpn/",
         "{userhome}/.local/lib/python3.11/site-packages/proton/vpn/",
@@ -19,6 +21,7 @@
         "{userhome}/.local/lib/python3.6/site-packages/proton/vpn/"
     ],
     "icons_path": [
+        "/usr/lib/python3.14/site-packages/proton/vpn/app/gtk/assets/icons/",
         "/usr/lib/python3.13/site-packages/proton/vpn/app/gtk/assets/icons/",
         "/usr/lib/python3.12/site-packages/proton/vpn/app/gtk/assets/icons/",
         "/usr/lib/python3.11/site-packages/proton/vpn/app/gtk/assets/icons/",
@@ -27,6 +30,7 @@
         "/usr/lib/python3.8/site-packages/proton/vpn/app/gtk/assets/icons/",
         "/usr/lib/python3.7/site-packages/proton/vpn/app/gtk/assets/icons/",
         "/usr/lib/python3.6/site-packages/proton/vpn/app/gtk/assets/icons/",
+        "{userhome}/.local/lib/python3.14/site-packages/proton/vpn/app/gtk/assets/icons/",
         "{userhome}/.local/lib/python3.13/site-packages/proton/vpn/app/gtk/assets/icons/",
         "{userhome}/.local/lib/python3.12/site-packages/proton/vpn/app/gtk/assets/icons/",
         "{userhome}/.local/lib/python3.11/site-packages/proton/vpn/app/gtk/assets/icons/",
