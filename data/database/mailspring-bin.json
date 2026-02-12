@@ -13,16 +13,32 @@
             "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Zero.png",
             "theme": "mailspring-tray-empty"
         },
+        "empty-dark": {
+            "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Zero-dark.png",
+            "theme": "mailspring-tray-empty"
+        },
         "full": {
             "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Full.png",
+            "theme": "mailspring-tray-full"
+        },
+        "full-dark": {
+            "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Full-dark.png",
             "theme": "mailspring-tray-full"
         },
         "newitems": {
             "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Full-NewItems.png",
             "theme": "mailspring-tray-full-newitems"
         },
+        "newitems-dark": {
+            "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Full-NewItems-dark.png",
+            "theme": "mailspring-tray-full-newitems"
+        },
         "unreaditems": {
             "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Full-UnreadItems.png",
+            "theme": "mailspring-tray-full-newitems"
+        },
+        "unreaditems-dark": {
+            "original": "internal_packages/system-tray/assets/linux/MenuItem-Inbox-Full-UnreadItems-dark.png",
             "theme": "mailspring-tray-full-newitems"
         }
     }
